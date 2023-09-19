@@ -1,4 +1,4 @@
-<h1 align="center">Hola! Vidyasagar VS</h1>
+<h1 align="center">Hola! Vidyasagar VS </h1>
 <h3 align="center">A budding software professional from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif">
 
